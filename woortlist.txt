@@ -21,6 +21,7 @@ abasig/CZ
 Abitur
 abstrakt/EN
 ach
+acht
 Achtdaagsklock/Z
 Achtdaagstiet # glööv nich, dat dat en Mehrtall hett
 Achtelstell # Mehrtall?
@@ -35,6 +36,8 @@ Achterdöör Achterdören
 Achtergatt Achtergaten Achtergatten  # för Gatt hett de Sass twee Mehrtallformen
 Achtergedank/Z # Lindow hett Achtergedanken as Eentall, man Sass meent een Gedank, twee Gedanken
 Achtergrund
+Achtergrundbild Achtergrundbiller
+Achtergrundklöör Achtergrundklören
 Achtergrundperzess/N
 Achtergrundprogramm/N
 Achterhand Achterhänn Achterhannen # wi weet wedder nich wat wi wullt...
@@ -67,6 +70,7 @@ Addelkuhl/Z
 Addelpool Addelpööl
 Ader Adern
 Adjektiv/N
+Adjüüs
 Administrater/Z # bitte nich op -tor...
 Administratschoon
 Adressaat Adressaten
@@ -77,31 +81,36 @@ Adresstyp/N
 Adresslist/N
 adrett/EN
 af
-afbestellen aftobestellen # konjugieren?
+afbestell/s
 afbestellen/IDWMO
 Afbild Afbiller
 afbill/s
 afdeck/s
 Afdeel/N
 afdeel/s
+afdock/s
 afdreih/s
 afdüüster/s
 Affall Affäll
 Affalltünn/N
+affraag/s
 Affraag /N
 Afgang Afgäng
 Afgrenzer/L
+afgrenz/s
 Afgunst # ik meen: hett keen Mehrtall
 afgünstig/EN
 afhaal/s
 afhangig/EN
-Afhangigkeit/Z
+Afhangigkeit/N
 Afkaat Afkaten
 Afkatenkneep
 Afklingtiet Afklingtieden
 afkört/s
+aflaad/s
 Aflaag/N
 aflandig/CZ
+afledd/s
 aflehn/s
 aflenk/s
 aflever/s
@@ -111,7 +120,7 @@ Afloopdatum
 Aflooptiet Aflooptieden
 afmell/s
 Afmeten
-Afnahm # Mehrtall?
+Afnahm/N
 afprall/s
 Afreed Afreden
 Afreken/N
@@ -135,12 +144,18 @@ afspeel/s
 Afspeler/S
 Afsprung Afsprüng
 Afstand Afstänn
+afstrakt/EN
+Afstört/N
 afsünnerlich/CZ
 Aftaster/L
 Afteek Afteken
 Afteker/L
 Aftellriemel Aftellriemels
+Afwieser/S
 Afwind Afwinn Afwinnen # twee Varianten för de Mehrtall
+Agent/N
+Aggregat
+Aggregattostand Aggregattostänn
 aggressiv/CZ
 Ahl Ahlen
 ahn
@@ -212,24 +227,28 @@ Anfraag/N
 Angaav/N
 Angang Angäng
 Angever/L
+Angreep/N
 angreepsch/CZ
 Angrieper/L
-Angst Angsten
+Angst/N
 Anhang Anhäng
-Animatschoon Animatschonen
-animeren animeer/DWMO
+Animatschoon/N
+animeer/s
 Ankerklüüs # Mehrtall?
 Anker/L
 Anklaag Anklagen
+Ankrüüzfeld Ankrüüzfeller
 Anloop Anlööp
 an'n
-anner annere annern
+anner/EN
 annerlest
 ännern/IDWMOQV
 anners
+annersrüm
 annerswat
 annerwarts
-anonüm anonüme anonümen
+anonym/EN
+Anroop Anrööp
 Anschrift Anschriften
 Ansicht/Z
 Anslag Anslääg
@@ -241,39 +260,50 @@ Anstand
 ansteed
 Anstoot Anstööt
 an't
+Antall/N
 Antenn Antennen
+Anter
 antern/IDWMOBV
+Antertiet Antertieden
 anti
 Antwoort Antwoorden
+anwenn/s
 anwennbor/CZ
+anwies/n
 Anwiesen
-apen/CZ
+apen/EN
 Apostrof/L
+Apparat/N
 Appel Appeln Appels # twee Formen för de Mehrtall
 Appelboom Appelbööm
 Appelkoken
-Applikatschoon Applikatschonen
+Applikatschoon/N
 Äquater # nich Äquator!
 arbeiden/IDWMOQBRJPTEUVFX
 Arbeiderpartei
-Arbeit Arbeiden
+Arbeit/N Arbeiden # twee Formen för de Mehrtall
 Arbeitdag
 Arbeitsgrupp Arbeitsgruppen
 Arbeitsorner
 Architekt/Z
-archiveren/X archiveer/DWMOX
-Archiv/Z
+archiveer/s
+Archiv/N
+Archivdatei/N
+Archivgrött
+Archivnaam/N
 Arf Arften Arfen # twee Foorms för de Mehrtall
 Arftensupp Arftensuppen
 Arger
 argern/IDWMOV
-Argument/Z
-aritmeetsch/CZ
-Aritmetik/Z
+Argument/N
+arithmeetsch/EN
+Arithmetik
 Armee Armeen
 Arm/L
 Armot # mich Armoot
-Artikel Artikels # nee, nich Artikeln
+Artefakt/N
+Artikel/S # nee, nich Artikeln
+Artist/N
 Arv Arven
 Arvdeel Arvdelen
 arven/IDWMOBHVF
@@ -292,28 +322,39 @@ Aspekt/Z
 Ass Assen # hd. Achse
 Assembler/L
 Assistent/Z
+Asterisk/N
 Asteroid/Z
 Astronomie
+astronoomsch/EN
 Astronom/Z
-asynkroon asynkrone asynkronen
+Asymptoot/N
+asynchroon/EN
 Aten
+Athlet/N
+athleetsch/EN
 Atmosphäär Atmosphären
+Atom/N
+Atombomb/N
 Atomtall/Z
-Atom/Z
-Atoom Atomen
 atoomsch/CZ
-Attribut/Z
+Attribut/N
+Autobahn/EN
+Automat/N
+Automatik
+automaatsch/EN
+Autor/N
 Audio
 Aukschoon Aukschonen
 Autodack Autodacken Autodäcker # twee Formen för de Mehrtall
-Auto/L
+Auto/S
+Autogramm/Z
 Autogramm/Z
 automaatsch/CZ autom # Afkörten
 Automat Automaten
 Autoriteet Autoriteten
 Autor/Z
 avends
-Avend/Z
+Avend/N
 Avendbroot
 Avendeten
 Aven/L
@@ -324,42 +365,55 @@ averglöövsch/CZ
 Baad Baden #HD: Bote
 Baadfro Baadfroons
 Baadgast Baadgäst
-Baas Basen
+Baas/N
 Baby
 backen/IDWMOAQRJPUVF
-backig/CZ
-Bagen/L
+backig/EN
+Bagaluut/N
+Bagen/S
+Bagenlien/N
+Bagenmaat
+Bagenminuut/N
+Bagensekunn/N
 Bahnhoff Bahnhööv
 Bahntje/L
-Bahn/Z
+Bahn/N
 Balangs/Z
 Baldachin # Mehrtall?
-Balken/L
+Balken/S
+Balkendiagramm/N
+Balkengrafik/N
 Ballast
 Ball Bäll
+Ballaad/N
 Ballon/L
 Bammel
 Band Bänner Bänn # hd. Fäden u. Bücher
+Bandbreed/N
+Bandloopwark/N
+bang/EN
 Bangbüx/Z
+bangbüxig/EN
 bang/CZ
 banghaftig/CZ
 Bank/Z Bänk
 Bann # HD Bann
 bannig
 Baptist Baptisten
-bargen/IDWMO
-Barg/Z
+barg/s
+Barg/N
 Bark Barken
 Barkenboom Barkenbööm
 Barkenholt
 Bark/Z
 Barmbeker/L
 basch/CZ
-baseren baseer/DWMO
-basig/CZ basiger/CZ basigst/CZ
-Basis
+baseer/s
+basig/EN basiger/EN basigst/EN
+Basis Basen
+Basisklass/N
 bassen/IDWMOPGT
-Batterie/Z
+Batterie/N
 baven
 bedden/IDWMOJPNUÜ
 Bedelbroder Bedelbröder
@@ -369,12 +423,15 @@ beden/APV beed/WAPV büddst/APV büddt/APV bood/DAPV boden/APV baden/APV #(hd. b
 beden beed/DWMO #(hd. bitten, beten)
 bedibbern/IDWMO
 bedieken/IDWMO
-Beding Bedingen
-bedingt/CZ
+Beding/N
+bedingt/EN
+Bedraap
 Bedrag Bedrääg
 bedreihen/IDWMO
 Bedrief Bedrieven
+Bedriefssystem/N
 Bedüden
+beed/s
 beed bede beden # beid?
 beedsiets
 Been Benen Beens # wi weet wedder nich, woans dat deklineert warrt...
@@ -388,22 +445,26 @@ beestig/CZ
 Beet Beten
 beetsch/CZ
 Befehlsfinster Befehlsfinstern
-Befehlsreeg Befehlsregen
-Befehl/Z
+Befehlsreeg/N
+Befehl/N
 befummeln/IDWMO
 begäng
 Begeefnis Begeefnissen
 begrabbeln/IDWMO
+Begreep/N
+Behinnert/N
 Behöörd
+beindruck/s
 bekakeln/IDWMO
-bekannt/CZ
-Beker/L
+bekannt/EN
+Beker/S
 belämmern/IDWMO
 Beleefnis Beleefnissen
 bellen/IDWMO
 bemeiern/IDWMO
 benarichten/IDWMO
-Bericht/Z
+bericht/s
+Bericht/N
 Bescheed Bescheden
 beschriften/IDWMO
 Besitter
@@ -412,8 +473,10 @@ Bessen Bessens
 Bessenbinner/L
 Bessenkruut
 Bessensteel Bessenstelen
-best/CZ
-besünner/CZL
+best/EN
+Bestell/N
+besünners
+besünner/EN
 bet
 betahlen/IDWMOQAJHTUF
 Beteker/L
